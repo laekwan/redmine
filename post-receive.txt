@@ -1,0 +1,4 @@
+_apikey=wSLdMCGMD2D2AhAdAE2a
+_projectid=test
+
+curl"http://127.0.0.1/redmine/fetch_changesets?key=$_apikey&id=$projectid"&
